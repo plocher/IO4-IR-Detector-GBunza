@@ -4,3 +4,34 @@ Derived from Geoff Bunza's SMA Detector, published in his column in MRH as "SMA2
 
 This version eschews "small" in favor of a remote mountable IO4 baseboard that can be mounted near the point of use, and then use [sensors disguised as ties](/pages/IO4-IR-Detector-GBunza-Fingers.html) for the sensor electronics themselves.
 
+
+It has 4 independent optical detectors for high density applications.  4 Circuit Enhanced Optical Position Detector uses an Arduino ProMini (included) for its timing and de-bounce, so these parameters can be changed in software.
+
+
+The output is an open drain (2N7002) which can sink up to 115mA @ up to 48V.
+
+
+This design uses Geoff's self-calibrating detection circuit, so you
+don't need to adjust for ambient light level.  Note the circuit
+won't work in the dark unless you provide an infrared illumination
+source.  The supply voltage range is 5 volts and the the output is
+an open drain (2N7002) which can sink up to 100mA @ 48V.
+
+
+Geoff says:
+
+  >  "Every so often one needs an absolute position detector, rather
+  > than a block detector. The best I’ve used employ their own light
+  > source, but older designs use Cadmium Sulphide (CdS) photocells
+  > and depend on ambient light in the room. Both have driven me crazy
+  > with their limitations. This article describes a new design, using
+  > ambient light “seen” by the detector in two places – typically
+  > between the rails and just to the side of the track. When it
+  > notices the track light level fall below the level of the second
+  > sensor, it “indicates” the presence of an obstruction (car or
+  > loco). The beauty of this “differential” measurement is that it
+  > operates over a very wide range of light levels, does not require
+  > “aiming” to a target, needs no adjustments, and can be virtually
+  > buried in ground covering materials."
+
+
