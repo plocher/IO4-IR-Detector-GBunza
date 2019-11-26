@@ -1,4 +1,4 @@
-~~~ C++
+~~~ cpp
 #define DET1  2
 #define DET2  3
 #define DET3  4
