@@ -5,5 +5,5 @@ fabricated: yes
 fab_date: 2018-02
 status: released
 release: yes
-tags: [eagle, SPCoast]
+tags: [eagle, SPCoast, Appliance]
 image_path: IO4-IR-Detector-GBunza-Graphic.png
