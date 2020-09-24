@@ -3754,7 +3754,7 @@ www.irf.com&lt;p&gt;
 <plain>
 <text x="151.13" y="19.558" size="2.54" layer="91">IO4 quad Ambient Light detector
 (after Geoff Bunza)</text>
-<text x="241.3" y="12.7" size="2.54" layer="91">3.2</text>
+<text x="241.3" y="12.7" size="2.54" layer="91">4.0</text>
 <text x="241.808" y="6.096" size="2.54" layer="91">A</text>
 <text x="20.32" y="162.56" size="1.778" layer="91" rot="R180">Detection</text>
 <text x="20.32" y="157.48" size="1.778" layer="91" rot="R180">Ambient</text>
@@ -3776,6 +3776,7 @@ www.irf.com&lt;p&gt;
 <text x="186.69" y="69.596" size="1.778" layer="91" rot="R180">-nc-</text>
 <text x="186.69" y="61.976" size="1.778" layer="91" rot="R180">-nc-</text>
 <text x="186.69" y="51.816" size="1.778" layer="91" rot="R180">-nc-</text>
+<text x="5.08" y="2.54" size="1.778" layer="91">V4.0 - replaced single op amp with cheaper dual 358B used by other SPCoast designs</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="FRAME" x="0" y="0"/>
