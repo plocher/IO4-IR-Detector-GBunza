@@ -3725,7 +3725,7 @@ www.irf.com&lt;p&gt;
 <part name="GND11" library="SparkFun-Aesthetics" deviceset="DGND" device=""/>
 <part name="GND12" library="SparkFun-Aesthetics" deviceset="DGND" device=""/>
 <part name="GND14" library="SparkFun-Aesthetics" deviceset="DGND" device=""/>
-<part name="U1" library="SPCoast" deviceset="LM393" device="M"/>
+<part name="U1" library="SPCoast" deviceset="LM393" device="M" value="LM358B"/>
 <part name="U2" library="SPCoast" deviceset="LM393" device="M"/>
 <part name="SUPPLY8" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
 <part name="SUPPLY9" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
