@@ -3669,10 +3669,10 @@ www.irf.com&lt;p&gt;
 <part name="R18" library="SPCoast" deviceset="R*" device="0805-RES" value="10K"/>
 <part name="R19" library="SPCoast" deviceset="R*" device="0805-RES" value="5k6"/>
 <part name="R14" library="SPCoast" deviceset="R*" device="0805-RES" value="10k"/>
-<part name="CON2" library="SPCoast" deviceset="CONNECTOR-IO4" device="INV" value="IO4INV"/>
+<part name="CON2" library="SPCoast" deviceset="CONNECTOR-IO4" device="INV" value="RJ12/6"/>
 <part name="GND5" library="SparkFun-Aesthetics" deviceset="DGND" device=""/>
 <part name="SUPPLY5" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
-<part name="ARDUINO1" library="SPCoast" deviceset="ARDUINO-PRO-MINI" device="DAVESROBOT" value="ARDUINO-PRO-MINI-DAVESROBOT"/>
+<part name="ARDUINO1" library="SPCoast" deviceset="ARDUINO-PRO-MINI" device="DAVESROBOT" value="DAVEK"/>
 <part name="SUPPLY7" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
 <part name="GND7" library="SparkFun-Aesthetics" deviceset="DGND" device=""/>
 <part name="LED4" library="SPCoast" deviceset="LED*" device="0603-LED" value="Y"/>
@@ -3683,25 +3683,25 @@ www.irf.com&lt;p&gt;
 <part name="R3" library="SPCoast" deviceset="R*" device="0805-RES" value="2K0"/>
 <part name="R2" library="SPCoast" deviceset="R*" device="0805-RES" value="2K0"/>
 <part name="R1" library="SPCoast" deviceset="R*" device="0805-RES" value="2K0"/>
-<part name="CON1" library="SPCoast" deviceset="CONNECTOR-M06" device="LOCK"/>
+<part name="CON1" library="SPCoast" deviceset="CONNECTOR-M06" device="LOCK" value="0.100"/>
 <part name="GND13" library="SparkFun-Aesthetics" deviceset="DGND" device=""/>
 <part name="SUPPLY4" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
-<part name="DET1" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1"/>
+<part name="DET1" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1" value="2mm"/>
 <part name="R20" library="SPCoast" deviceset="R*" device="0805-RES" value="10K"/>
 <part name="R21" library="SPCoast" deviceset="R*" device="0805-RES" value="5k6"/>
 <part name="R15" library="SPCoast" deviceset="R*" device="0805-RES" value="10k"/>
 <part name="GND1" library="SparkFun-Aesthetics" deviceset="DGND" device=""/>
-<part name="DET2" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1"/>
+<part name="DET2" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1" value="2mm"/>
 <part name="R22" library="SPCoast" deviceset="R*" device="0805-RES" value="10K"/>
 <part name="R23" library="SPCoast" deviceset="R*" device="0805-RES" value="5k6"/>
 <part name="R16" library="SPCoast" deviceset="R*" device="0805-RES" value="10k"/>
 <part name="GND2" library="SparkFun-Aesthetics" deviceset="DGND" device=""/>
 <part name="SUPPLY2" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
-<part name="DET3" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1"/>
+<part name="DET3" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1" value="2mm"/>
 <part name="R24" library="SPCoast" deviceset="R*" device="0805-RES" value="10K"/>
 <part name="R25" library="SPCoast" deviceset="R*" device="0805-RES" value="5k6"/>
 <part name="R17" library="SPCoast" deviceset="R*" device="0805-RES" value="10k"/>
-<part name="DET4" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1"/>
+<part name="DET4" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1" value="2mm"/>
 <part name="LED5" library="SPCoast" deviceset="LED*" device="0603-LED" value="Y"/>
 <part name="R5" library="SPCoast" deviceset="R*" device="0805-RES" value="2K0"/>
 <part name="SUPPLY6" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
@@ -3744,10 +3744,10 @@ www.irf.com&lt;p&gt;
 <part name="SUPPLY15" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
 <part name="SUPPLY16" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
 <part name="SUPPLY17" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
-<part name="CON3" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK"/>
-<part name="CON4" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK"/>
-<part name="CON5" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK"/>
-<part name="CON6" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK"/>
+<part name="CON3" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK" value="2mm"/>
+<part name="CON4" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK" value="0.100"/>
+<part name="CON5" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK" value="0.100"/>
+<part name="CON6" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK" value="0.100"/>
 </parts>
 <sheets>
 <sheet>
